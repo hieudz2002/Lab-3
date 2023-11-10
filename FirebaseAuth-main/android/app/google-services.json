@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884688509661",
+    "project_id": "todosapp-7b4b6",
+    "storage_bucket": "todosapp-7b4b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884688509661:android:52ab3a10b0cd87ad881934",
+        "android_client_info": {
+          "package_name": "com.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOMl75vU9ZVZsPY5rEUQMRaFAkB3Uw3K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
